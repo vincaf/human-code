@@ -1,0 +1,73 @@
+TEAM 2 (Cafasso - Caratozzolo - Grande Castellani - Prina)
+
+APRIRE UN PACCHETTO DI FIGURINE
+Che emozione, ogni volta che apro un pacchetto nuovo... chissà se troverò quella figurina così rara!
+Dopo averle sfilate dal pacchetto, me le passo tra le mani controllando nell’album: attacco subito quelle nuove, mentre le doppie le metto in un mazzetto a parte.
+Ormai ne sto accumulando diverse, spero di riuscire a combinare diversi scambi sabato con i miei amici! 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. Apro il pacchetto strappando in orizzontale dalla sommità
+
+2. Sfilo le figurine dal pacchetto per inserirle
+
+3. PER OGNI figurina da inserire:
+
+   3.1 Guardo il numero della figurina
+
+   3.2 Individuo nell'album la posizione della figurina
+
+   3.3 CONDIZIONE
+	- SE la figurina è presente in album
+		A.1 La inserisco nel mazzetto dei doppioni
+	- ALTRIMENTI (la figurina non è presente nell'album)
+		B.1 Tolgo la pellicola adesiva
+		B.2 Attacco la figurina nell'apposito spazio
+		B.3 Getto la pellicola rimossa nella pattumiera
+
+   3.4 CONDIZIONE
+	- SE ci sono altre figurine da provare ad attaccare
+		A.1 Torno al 3.1
+	- ALTRIMENTI (non ci sono altre figurine nel pacchetto)
+		B.1 Interrompo l'attività
+
+4. Controllo lo stato di completamento dell'album
+
+   4.1 CONDIZIONE
+	- SE l'album è completo
+		A.1 Mi ritengo soddisfatto e chiudo (FINE)
+	- ALTRIMENTI (l'album non è completo)
+		B.1 CONDIZIONE
+			- SE voglio ancora completare l'album
+				A.1 Aspetto sabato per fare gli scambi coi miei amici
+			- ALTRIMENTI (non voglio ancora completare l'album)
+				B.1 Chiudo l'album e ci ripenso settimana prossima (FINE)	
+
+5. Mi trovo con i miei amici per effettuare lo scambio dei doppioni
+
+   5.1 CONDIZIONE
+	- SE ci sono degli scambi che posso effettuare per completare l'album
+		A.1 CONDIZIONE
+			- SE i miei amici accettano
+				A.1 Effettuo lo scambio e torno al punto 3
+			- ALTRIMENTI (i miei amici non accettano)
+                B.1 CONDIZIONE
+                    - SE voglio ancora completare l'album
+                        A.1 Vado al punto 6
+                    - ALTRIMENTI (non voglio ancora completare l'album)
+                        B.1 Chiudo l'album e ci ripenso settimana prossima (FINE)	
+
+   - ALTRIMENTI (non ci sono degli scambi che posso effettuare per completare l'album)
+        - SE voglio ancora completare l'album
+            A.1 Vado al punto 6
+        - ALTRIMENTI (non voglio ancora completare l'album)
+            B.1 Chiudo l'album e ci ripenso settimana prossima (FINE)	
+
+
+6. Voglio acquistare un nuovo pacchetto
+
+    6.1 CONDIZIONE
+     - SE ho ancora soldi da spendere in pacchetti
+        A.1 Compro un altro pacchetto
+    - ALTRIMENTI
+        B.1 Chiudo l'album e ci ripenso settimana prossima (FINE)
